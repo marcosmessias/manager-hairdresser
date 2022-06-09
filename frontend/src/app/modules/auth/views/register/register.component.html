@@ -1,0 +1,38 @@
+<div class="card-body">
+  <div class="circle-detail circle-detail-one"></div>
+  <div class="circle-detail circle-detail-two"></div>
+  <h1 class="card-title">Registre-se</h1>
+  <form [formGroup]="form" (ngSubmit)="onSubmit()" errorTailor>
+    <div class="form-group">
+      <label for="name">Nome</label>
+      <input type="text" class="form-control" id="name" formControlName="name" placeholder="Nome" />
+    </div>
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" class="form-control" id="email" formControlName="email" placeholder="Email" />
+    </div>
+    <div class="form-group">
+      <label for="nameSalon">Nome do salão</label>
+      <input type="text" class="form-control" id="nameSalon" formControlName="nameSalon" placeholder="Nome do salão" />
+    </div>
+    <div class="form-group">
+      <label for="password">Senha</label>
+      <input type="password" class="form-control" id="password" formControlName="password" placeholder="Senha" />
+    </div>
+    <div class="form-group mb-4">
+      <label for="passwordConfirmation">Confirmar senha</label>
+      <input type="password" class="form-control" id="passwordConfirmation" formControlName="passwordConfirmation"
+        placeholder="Confirmar senha" />
+    </div>
+    <div class="form-group">
+      <div class="row">
+        <div class="col-8">
+          <button type="submit" class="btn btn-block btn-danger" [disabled]="form.invalid">Registrar</button>
+        </div>
+        <div class="col-4"><a [routerLink]="['/login']" title="Cancelar" class="btn btn-link">Cancelar</a></div>
+      </div>
+    </div>
+  </form>
+  <div class="circle-detail circle-detail-three"></div>
+  <div class="circle-detail circle-detail-four"></div>
+</div>

@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\bin\Debug\net6.0\ManagerHairdresser.Data.deps.json
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\bin\Debug\net6.0\ManagerHairdresser.Data.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\bin\Debug\net6.0\ref\ManagerHairdresser.Data.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\bin\Debug\net6.0\ManagerHairdresser.Data.pdb
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ref\ManagerHairdresser.Data.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.pdb
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\bin\Debug\net6.0\ManagerHairdresser.Domain.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\bin\Debug\net6.0\ManagerHairdresser.Domain.pdb
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Data\obj\Debug\net6.0\ManagerHairdresser.Data.csproj.CopyComplete

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerHairdresser.Api", "ManagerHairdresser.Api\ManagerHairdresser.Api.csproj", "{19840879-AD58-42F9-9960-3AC0352CDBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerHairdresser.Application", "ManagerHairdresser.Application\ManagerHairdresser.Application.csproj", "{D20C8CAA-0C27-4283-90B2-EDB9FBF2B721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerHairdresser.Domain", "ManagerHairdresser.Domain\ManagerHairdresser.Domain.csproj", "{3CF905CC-88D1-4BE1-BAA0-4162FA88F98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerHairdresser.Data", "ManagerHairdresser.Data\ManagerHairdresser.Data.csproj", "{AD2E06D5-BD24-47D6-80C6-F21675712A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerHairdresser.Identity", "ManagerHairdresser.Identity\ManagerHairdresser.Identity.csproj", "{C716374F-0FD9-4F31-90E8-EF0C7379DA81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19840879-AD58-42F9-9960-3AC0352CDBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19840879-AD58-42F9-9960-3AC0352CDBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19840879-AD58-42F9-9960-3AC0352CDBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19840879-AD58-42F9-9960-3AC0352CDBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20C8CAA-0C27-4283-90B2-EDB9FBF2B721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20C8CAA-0C27-4283-90B2-EDB9FBF2B721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20C8CAA-0C27-4283-90B2-EDB9FBF2B721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20C8CAA-0C27-4283-90B2-EDB9FBF2B721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF905CC-88D1-4BE1-BAA0-4162FA88F98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF905CC-88D1-4BE1-BAA0-4162FA88F98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF905CC-88D1-4BE1-BAA0-4162FA88F98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF905CC-88D1-4BE1-BAA0-4162FA88F98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5FAF99-58A0-444C-9F80-558045AE2D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5FAF99-58A0-444C-9F80-558045AE2D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5FAF99-58A0-444C-9F80-558045AE2D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5FAF99-58A0-444C-9F80-558045AE2D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2E06D5-BD24-47D6-80C6-F21675712A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2E06D5-BD24-47D6-80C6-F21675712A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2E06D5-BD24-47D6-80C6-F21675712A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2E06D5-BD24-47D6-80C6-F21675712A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C716374F-0FD9-4F31-90E8-EF0C7379DA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C716374F-0FD9-4F31-90E8-EF0C7379DA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C716374F-0FD9-4F31-90E8-EF0C7379DA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C716374F-0FD9-4F31-90E8-EF0C7379DA81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

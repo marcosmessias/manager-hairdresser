@@ -1,0 +1,15 @@
+@import "./sass/variables";
+
+html,
+body {
+  height: 100%;
+}
+.error-tailor-has-error {
+  input {
+    border-color: var(--color-orange);
+  }
+  .control-error {
+    color: var(--color-orange);
+    font-size: 0.8125em;
+  }
+}

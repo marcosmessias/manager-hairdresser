@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\bin\Debug\net6.0\ManagerHairdresser.Identity.deps.json
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\bin\Debug\net6.0\ManagerHairdresser.Identity.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\bin\Debug\net6.0\ref\ManagerHairdresser.Identity.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\bin\Debug\net6.0\ManagerHairdresser.Identity.pdb
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ref\ManagerHairdresser.Identity.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.pdb
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\bin\Debug\net6.0\ManagerHairdresser.Application.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\bin\Debug\net6.0\ManagerHairdresser.Application.pdb
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Identity\obj\Debug\net6.0\ManagerHairdresser.Identity.csproj.CopyComplete

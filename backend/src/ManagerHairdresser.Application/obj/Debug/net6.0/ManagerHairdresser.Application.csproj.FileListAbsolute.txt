@@ -1,0 +1,12 @@
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\bin\Debug\net6.0\ManagerHairdresser.Application.deps.json
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\bin\Debug\net6.0\ManagerHairdresser.Application.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\bin\Debug\net6.0\ref\ManagerHairdresser.Application.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\bin\Debug\net6.0\ManagerHairdresser.Application.pdb
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ref\ManagerHairdresser.Application.dll
+C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.pdb
