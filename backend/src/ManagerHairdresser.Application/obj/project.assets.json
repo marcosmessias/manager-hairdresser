@@ -8,23 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Marcos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\messias\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos\\Desktop\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\ManagerHairdresser.Application.csproj",
+      "projectUniqueName": "C:\\projects\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\ManagerHairdresser.Application.csproj",
       "projectName": "ManagerHairdresser.Application",
-      "projectPath": "C:\\Users\\Marcos\\Desktop\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\ManagerHairdresser.Application.csproj",
-      "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos\\Desktop\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\obj\\",
+      "projectPath": "C:\\projects\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\ManagerHairdresser.Application.csproj",
+      "packagesPath": "C:\\Users\\messias\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\messias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

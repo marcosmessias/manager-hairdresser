@@ -10,3 +10,15 @@ C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Appli
 C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.dll
 C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ref\ManagerHairdresser.Application.dll
 C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.pdb
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\bin\Debug\net6.0\ManagerHairdresser.Application.deps.json
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\bin\Debug\net6.0\ManagerHairdresser.Application.dll
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\bin\Debug\net6.0\ManagerHairdresser.Application.pdb
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.csproj.AssemblyReference.cache
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.AssemblyInfoInputs.cache
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.AssemblyInfo.cs
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.csproj.CoreCompileInputs.cache
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.dll
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\refint\ManagerHairdresser.Application.dll
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ManagerHairdresser.Application.pdb
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Application\obj\Debug\net6.0\ref\ManagerHairdresser.Application.dll

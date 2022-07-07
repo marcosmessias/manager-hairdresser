@@ -1,3 +1,4 @@
+using FluentValidation.AspNetCore;
 using ManagerHairdresser.Api.Extensions;
 using ManagerHairdresser.Api.IoC;
 
@@ -13,17 +14,26 @@ namespace ManagerHairdresser.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddCors();
-            services.AddControllers();
+            services.AddControllers().AddFluentValidation(fv =>
+            {
+                fv.DisableDataAnnotationsValidation = true;
+            });
             services.AddRouting(options => options.LowercaseUrls = true);
             services.AddVersioning();
             services.AddSwagger();
             services.AddAuthentication(Configuration);
             services.RegisterServices(Configuration);
+
+            services.RegisterValidators(Configuration);
         }
 
         public void Configure(WebApplication app, IWebHostEnvironment env)
         {
-            app.UseSwaggerUI();
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("v1/swagger.json", "MyAPI V1");
+            });
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();

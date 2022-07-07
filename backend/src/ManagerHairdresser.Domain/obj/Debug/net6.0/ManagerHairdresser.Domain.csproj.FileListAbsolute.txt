@@ -10,3 +10,15 @@ C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Domai
 C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.dll
 C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ref\ManagerHairdresser.Domain.dll
 C:\Users\Marcos\Desktop\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.pdb
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\bin\Debug\net6.0\ManagerHairdresser.Domain.deps.json
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\bin\Debug\net6.0\ManagerHairdresser.Domain.dll
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\bin\Debug\net6.0\ManagerHairdresser.Domain.pdb
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.csproj.AssemblyReference.cache
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.AssemblyInfoInputs.cache
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.AssemblyInfo.cs
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.csproj.CoreCompileInputs.cache
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.dll
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\refint\ManagerHairdresser.Domain.dll
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ManagerHairdresser.Domain.pdb
+C:\projects\manager-hairdresser\backend\src\ManagerHairdresser.Domain\obj\Debug\net6.0\ref\ManagerHairdresser.Domain.dll

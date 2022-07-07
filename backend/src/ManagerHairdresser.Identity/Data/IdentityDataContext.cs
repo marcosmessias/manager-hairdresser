@@ -3,8 +3,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ManagerHairdresser.Identity.Data
 {
-  public class IdentityDataContext : IdentityDbContext
-  {
-    public IdentityDataContext(DbContextOptions<IdentityDataContext> options) : base(options) { }
-  }
+    public class IdentityDataContext : IdentityDbContext
+    {
+        public IdentityDataContext(DbContextOptions<IdentityDataContext> options) : base(options) { }
+    }
 }

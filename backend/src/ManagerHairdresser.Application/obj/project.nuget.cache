@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JwoVCxF5d89TO5l7LS9lhXbe5gCFIVOkt5WjH/6IoGUu9FFut1Fpao3XGDagYAeiy4euDG2YoXUHTES4UIxPiw==",
+  "dgSpecHash": "NvJ7u/Ur/mcguoxa4fGvH6lMbn5rc2/4SLjlB2YKJRJRsSNF+tcQ3Xas6HYPz1x2agptWsrCgd0HmTww18HqPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcos\\Desktop\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\ManagerHairdresser.Application.csproj",
+  "projectFilePath": "C:\\projects\\manager-hairdresser\\backend\\src\\ManagerHairdresser.Application\\ManagerHairdresser.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
